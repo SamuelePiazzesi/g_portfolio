@@ -1,0 +1,22 @@
+.nav {
+  background: #f3f3f3;
+  height: 250px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center; }
+  .nav .nav-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; }
+    .nav .nav-container .works-link a {
+      margin: 0 20px;
+      color: #333;
+      font-size: 40px;
+      transition: 0.3s; }
+      .nav .nav-container .works-link a:hover {
+        opacity: 0.6;
+        text-decoration: none; }
+
+/*# sourceMappingURL=Header.css.map */
